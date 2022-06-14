@@ -1,0 +1,9 @@
+CHÚ Ý
+Mọi người sử dụng github
+    
+    - bước 1: đồng bộ code từ github về
+    - bước 2: bật terminal và gõ lệnh như dưới (lấy lệnh với tên tưng ứng)
+        + git checkout -b Hung
+        + git checkout -b Tung
+        + git checkout -b Dai
+    - bước 3: sau khi code thêm hoặc chỉnh sửa hãy commit code rồi đẩy lên
